@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou André Ricardo Magalhães
+## 👋 Olá, eu sou André R. Magalhães
 
 Sou desenvolvedor de software com mais de 20 anos de experiência, atuando ao longo de todo o ciclo de vida de aplicações — da análise de requisitos ao deploy, manutenção e evolução.
 
