@@ -2,12 +2,12 @@
 
 Sou desenvolvedor de software com mais de 20 anos de experiência, atuando ao longo de todo o ciclo de vida de aplicações — da análise de requisitos ao deploy, manutenção e evolução.
 
-Minha base principal é o desenvolvimento backend com .NET e SQL, mas também tenho vivência com DevOps, automação, cloud (Azure) e integração de sistemas. Recentemente, venho ampliando meu foco para desenvolvimento mobile e soluções conectadas (IoT).
+Minha base principal é o desenvolvimento backend com .NET e SQL, mas também tenho vivência com DevOps, automação, cloud (Azure) e integração de sistemas. Recentemente, venho ampliando meu foco para desenvolvimento mobile, soluções conectadas (IoT) e IA.
 
 ## 🔧 Áreas de interesse
-- Engenharia de Software
-- Integração de sistemas (web, mobile, IoT)
-- APIs REST e automação
+- Desenvolvimento de soluções integradas com web, mobile, IoT e Inteligência Artificial
+- Engenharia de Software e Arquitetura
+- APIs REST, automação e integração de sistemas
 - CI/CD, DevOps e cloud (Azure)
 - Mobile (Android, Flutter)
 
